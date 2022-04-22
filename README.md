@@ -5,3 +5,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froggo8311&theme=omni&layout=compact&card_width=250" height="195rem">
   </a>
 </p>
+<span style="width: 50%;" align="center">
+  <p>
+    I am a teenage software engineer living in Texas. I am currently attempting to develop useful software.
+  </p>
+</span>
+<div align="center">
+  <h3>You can find me here:</h3>
+  <a href="https://soundcloud.com/froggo8311"><img src="https://soundcloud.com/pwa-round-icon-512x512.png" alt="Soundcloud" style="width: 50px; height: 50px;" /></a>
+  <a href="https://replit.com/@Froggo8311"><img src="https://replit.com/public/icons/icon-maskable-512x512.png" alt="Replit" style="width: 50px; height: 50px;" /></a>
+</div>
