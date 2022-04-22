@@ -11,7 +11,6 @@
   </p>
 </span>
 <div align="center">
-  <h3>You can find me here:</h3>
   <a href="https://soundcloud.com/froggo8311"><img src="https://soundcloud.com/pwa-round-icon-512x512.png" alt="Soundcloud" style="width: 50px; height: 50px;" /></a>
   <a href="https://replit.com/@Froggo8311"><img src="https://replit.com/public/icons/icon-maskable-512x512.png" alt="Replit" style="width: 50px; height: 50px;" /></a>
 </div>
