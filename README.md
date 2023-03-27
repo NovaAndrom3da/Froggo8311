@@ -6,7 +6,7 @@
   </a>
 </p>
 <h4 align="center" style="font-weight: normal;">
-  I am a teenage software engineer living in Texas. I attempt to develop useful software.
+  I am an anarchist software engineer living in hell. I attempt to develop useful software.
 </h4>
 <div align="center">
   <a href="https://soundcloud.com/froggo8311"><img src="https://soundcloud.com/pwa-round-icon-512x512.png" alt="Soundcloud" style="width: 50px; height: 50px;" /></a>
